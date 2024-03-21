@@ -1,4 +1,10 @@
-### Hi there 👋
+# Nayann ANDRIAMISA
+
+### Bienvenue 👋
+Je suis un étudiant en 3ème année de BUT informatique, parcours "Réalisation d'applications : conception, développement, validation" à l'Univertsité Sorbonne Paris Nord.  
+
+### Langages :
+
 
 <!--
 **nayannandriamisa/nayannandriamisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
