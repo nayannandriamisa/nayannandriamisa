@@ -4,7 +4,7 @@
 Je suis un étudiant en 3ème année de BUT informatique, parcours "Réalisation d'applications : conception, développement, validation" à l'Univertsité Sorbonne Paris Nord.  
 
 ### Langages :
-![image](https://github.com/nayannandriamisa/nayannandriamisa/blob/master/img/java-logo.png)
+![logo](https://github.com/nayannandriamisa/nayannandriamisa/img/java-logo.png)
 
 
 <!--
