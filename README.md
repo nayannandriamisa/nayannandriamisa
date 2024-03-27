@@ -1,7 +1,7 @@
 # Nayann ANDRIAMISA
 
 ### Bienvenue 👋
-Je suis un étudiant en 3ème année de BUT informatique, parcours "Réalisation d'applications : conception, développement, validation" à l'Univertsité Sorbonne Paris Nord.  
+Je suis un étudiant en 3ème année de BUT informatique, parcours "Réalisation d'applications : conception, développement, validation" à l'Université Sorbonne Paris Nord.  
 
 
 <!--
